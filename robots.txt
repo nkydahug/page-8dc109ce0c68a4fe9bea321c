@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fccfw.cn/sitemap.xml
